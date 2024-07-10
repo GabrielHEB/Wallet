@@ -1,0 +1,43 @@
+.header {
+    align-items: center;
+    background-color: var(--background-color);
+    color: var(--ligth-color);
+    display: flex;
+    filter: brightness(1.2);
+    height: 60px;
+    justify-content: space-between;
+    padding: 10px 40px;
+  }
+  
+  .gifHeader {
+    padding: 0 0 10px;
+  }
+  
+  .gifHeader img {
+    width: 60px;
+  }
+  
+  .userInfoContainer {
+    display: flex;
+  }
+  
+  .userEmail , .userExpenses , .userExchange {
+    align-items: center;
+    display: flex;
+    font-size: 12px;
+    padding: 10px 5px;
+  }
+  
+  .userEmail h3 , .userExpenses h3 , .userExchange h3 {
+    padding: 0 5px;
+  }
+  
+  .header button {
+    font-size: 22px;
+    height: 40px;
+    margin: 0;
+    margin-left: 10px;
+    padding: 0;
+    width: 40px;
+  }
+  
