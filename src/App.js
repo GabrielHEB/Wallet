@@ -2,9 +2,9 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import './App.css';
 
-import Login from './pages/Login';
-import Wallet from './pages/Wallet';
-import Charts from './pages/Charts';
+import Login from './Pages/Login';
+import Wallet from './Pages/Wallet';
+import Charts from './Pages/Charts';
 
 function App() {
   return (
