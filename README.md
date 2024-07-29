@@ -36,7 +36,7 @@ O projeto Trybe Wallet, tem com objetivo a criação de um carteira de gastos vi
 
 ## 🔖 Deploy
 
-Você pode visualizar a aplicação do projeto através [desse link]().
+Você pode visualizar a aplicação do projeto através [https://gabrielheb.github.io/Wallet.github.io/]().
 
 Obs: A aplicação deve ser utilizada acessando-a com o email ficiticio alguem@email.com e senha 123456.
 
