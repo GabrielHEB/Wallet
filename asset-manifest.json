@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Wallet.github.io/static/css/main.7d13d112.chunk.css",
+    "main.js": "/Wallet.github.io/static/js/main.9d0dac6f.chunk.js",
+    "main.js.map": "/Wallet.github.io/static/js/main.9d0dac6f.chunk.js.map",
+    "runtime-main.js": "/Wallet.github.io/static/js/runtime-main.1ac8f48f.js",
+    "runtime-main.js.map": "/Wallet.github.io/static/js/runtime-main.1ac8f48f.js.map",
+    "static/js/2.85e25898.chunk.js": "/Wallet.github.io/static/js/2.85e25898.chunk.js",
+    "static/js/2.85e25898.chunk.js.map": "/Wallet.github.io/static/js/2.85e25898.chunk.js.map",
+    "index.html": "/Wallet.github.io/index.html",
+    "precache-manifest.0cc12ffa561e9e981252f5ad0c7e17b4.js": "/Wallet.github.io/precache-manifest.0cc12ffa561e9e981252f5ad0c7e17b4.js",
+    "service-worker.js": "/Wallet.github.io/service-worker.js",
+    "static/css/main.7d13d112.chunk.css.map": "/Wallet.github.io/static/css/main.7d13d112.chunk.css.map",
+    "static/js/2.85e25898.chunk.js.LICENSE.txt": "/Wallet.github.io/static/js/2.85e25898.chunk.js.LICENSE.txt",
+    "static/media/wallet-attention.gif": "/Wallet.github.io/static/media/wallet-attention.395f42dc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac8f48f.js",
+    "static/js/2.85e25898.chunk.js",
+    "static/css/main.7d13d112.chunk.css",
+    "static/js/main.9d0dac6f.chunk.js"
+  ]
+}
