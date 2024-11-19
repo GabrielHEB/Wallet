@@ -32,15 +32,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Trybe Wallet, tem com objetivo a criação de um carteira de gastos virtuais, para moedas estrangeiras com conversões das moedas para BRL (R$), através de requisições a API de Conversões, awesomeapi e gerenciamento do estado global  da aplicação utilizando-se Redux. Além de utilizar Highcharts para a apresentação dos gráficos.
+O projeto Trybe Wallet tem como objetivo a criação de uma carteira de gastos virtuais para moedas estrangeiras, com conversões das moedas para BRL (R$), através de requisições à API de Conversões **AwesomeAPI** e gerenciamento do estado global da aplicação utilizando Redux. Além disso, utiliza Highcharts para a apresentação dos gráficos.
 
 ## 🔖 Deploy
 
-Você pode visualizar a aplicação do projeto através [https://gabrielheb.github.io/Wallet.github.io/]().
+Você pode visualizar a aplicação do projeto através deste link:  
+👉 [https://gabrielheb.github.io/Wallet.github.io/](https://gabrielheb.github.io/Wallet.github.io/).
 
-Obs: A aplicação deve ser utilizada acessando-a com o email ficiticio alguem@email.com e senha 123456.
+> **Obs:** A aplicação deve ser utilizada acessando-a com o e-mail fictício `alguem@email.com` e senha `123456`.
 
 ---
 
 By Gabriel Henrique Eleutério Borges :wave:.
-
